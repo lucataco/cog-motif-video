@@ -1,0 +1,16 @@
+.cog/
+checkpoints/
+__pycache__/
+*.safetensors
+*.bin
+*.gguf
+*.pth
+*.pt
+*.mp4
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
